@@ -1,14 +1,10 @@
-  {
-    "notifications": [{
-      "id": "unique-id",
-      "title": "Event Title",
-      "description": "Event description",
-      "date": "2024-10-07",
-      "type": "webinar",
-      "status": "upcoming",
-      "url": "https://nx.dev/",
-      "ctaText": "Register Now",
-      "links": [{ "label": "Discord", "url": "https://nx.dev", "icon": "chat" }],
-      "enabled": true
-    }]
-  }
+{
+  "title": "Event Title",
+  "description": "Event description",
+  "icon": "webinar",
+  "primaryCtaUrl": "https://nx.dev/",
+  "primaryCtaText": "Register Now",
+  "secondaryCtaUrl": "https://nx.dev/",
+  "secondaryCtaText": "Register Now",
+  "enabled": true
+}
