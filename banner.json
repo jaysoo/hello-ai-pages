@@ -1,4 +1,5 @@
 {
+  "id": "test-event",
   "title": "Event Title",
   "description": "Event description",
   "icon": "webinar",
